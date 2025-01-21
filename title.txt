@@ -1,0 +1,1 @@
+"date","time","customer","customer true identity","customer address", "customer telephone","customer email","customer date_of_birth","item","item price","item weight","item department","item supplier","branch","branch address","branch telephone","branch email","branch manager"
